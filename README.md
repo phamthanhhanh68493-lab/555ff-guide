@@ -3,7 +3,8 @@
 ## A análise mais objetiva de jogadores de nível 555Ff.
 555Ff é um site seguro! Possui licença emitida por Curaçao, número 8048/JAZ 2019-049, e está legalmente autorizado a prestar serviços aos seus clientes.Em breve publicaremos uma análise completa da plataforma T555Ff aqui, mas você já pode criar sua conta aqui.Considerando a crescente popularidade do entretenimento em smartphones, a 555Ff parece não estar dando a devida atenção a esse segmento. A empresa não possui nenhum aplicativo em desenvolvimento no momento, e seu site não menciona nenhum plano relacionado.
 
-![Uploading ChatGPT Image Aug 17, 2026, 10_47_36 AM.png…]()
+<img width="1536" height="1024" alt="ChatGPT Image Aug 17, 2026, 10_47_36 AM" src="https://github.com/user-attachments/assets/bfa35288-2d05-451f-8243-a59d66287910" />
+
 
 ## Site oficial
 [Visite o site oficial da 555Ff](https://555ff15.com/)
